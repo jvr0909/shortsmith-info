@@ -20,6 +20,8 @@ shortsmith is not a public app or service. It runs only on the operator's own ma
 
 This tool uses YouTube API Services. By interacting with it, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). See the [privacy policy](privacy) for how data is handled.
 
+See the [terms of service](terms).
+
 ## Contact
 
 Jai Rajpal: jairajpal13@gmail.com
